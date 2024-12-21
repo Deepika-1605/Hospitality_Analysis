@@ -39,6 +39,6 @@ Their revenue management team had decided to hire a 3rd party service provider t
 - AtliQ lost around 298 Million in cancellation 
 - Elite type rooms has the most booking and as well higher cancellation rate
 
-  Link to [Report](https://github.com/gulnaaz-source/Hospitality_Analysis/blob/main/Hospitality_Analysis_Dashboard.pbix)
+  
 
 
