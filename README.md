@@ -2,7 +2,6 @@
 
 Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWYyNTg5Y2ItYWI0Zi00YTExLTg3ZDgtYTllODczZTVlNDYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Link to [Presentation]("C:\Users\elakk\Downloads\Hospitality_Analysis_Presentation.pdf")
 
 ## Problem statement
 
